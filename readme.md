@@ -52,10 +52,12 @@
 - What is Smart Contract (Video): https://www.youtube.com/watch?v=ZE2HxTmxfrI
   - https://ethereum.org/en/developers/docs/smart-contracts/
 - Solidity Offical Documentation: https://docs.soliditylang.org/en/v0.8.13/
+- Watch code eater youtube channel All Videos related to Ethereum, Solidity, Truffle, Hardhat and Testing
 - Remix IDE for Smart Contract: https://remix.ethereum.org/
 - Solidity Course: https://cryptozombies.io/en/course/
 - Solidity Youtube Video Playlist: https://www.youtube.com/watch?v=MnSmc7Hto2k&list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
 - Master Solidity: https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g
+
 
 ## Week - 4: Learn JavaScript, Node Js and React Js (Frontend)
 
